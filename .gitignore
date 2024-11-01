@@ -35,4 +35,6 @@ Thumbs.db
 dist/
 build/
 
+# Ignorar configurações locais do Streamlit
+.streamlit/
 
