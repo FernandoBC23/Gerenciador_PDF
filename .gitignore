@@ -38,3 +38,4 @@ build/
 # Ignorar configurações locais do Streamlit
 .streamlit/
 
+temp_file.docx
