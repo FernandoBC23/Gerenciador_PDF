@@ -1,0 +1,38 @@
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+.vscode/settings.json
+
+# Arquivos e pastas Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Ambiente virtual específico do projeto
+gerador_PDF/
+
+# Ambiente virtual
+env/
+venv/
+*.env
+
+# Dependências instaladas por pip
+*.egg-info/
+.eggs/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.out
+*.err
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de compilação de pacotes (opcional)
+dist/
+build/
+
+
